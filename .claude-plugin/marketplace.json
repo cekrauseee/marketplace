@@ -1,0 +1,13 @@
+{
+  "name": "marketplace",
+  "description": "Local agent plugins for context, memory, and engineering workflows.",
+  "owner": {"name": "Henrique K"},
+  "plugins": [
+    {
+      "name": "harness",
+      "description": "Local context, memory, and explicit agent workflows.",
+      "version": "0.0.1",
+      "source": {"source": "github", "repo": "cekrauseee/harness", "ref": "v0.0.1"}
+    }
+  ]
+}
