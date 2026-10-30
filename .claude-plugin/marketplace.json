@@ -6,8 +6,8 @@
     {
       "name": "harness",
       "description": "Local context, memory, and explicit agent workflows.",
-      "version": "0.0.1",
-      "source": {"source": "github", "repo": "cekrauseee/harness", "ref": "v0.0.1"}
+      "version": "0.0.2",
+      "source": {"source": "github", "repo": "cekrauseee/harness", "ref": "v0.0.2"}
     }
   ]
 }
