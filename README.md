@@ -4,7 +4,7 @@ Local agent plugins published by Henrique K. The catalogs pin released plugin ve
 
 | Plugin | Version | Purpose |
 | --- | --- | --- |
-| [Harness](https://github.com/cekrauseee/harness) | 0.0.6 | Local context, memory, and explicit agent workflows. |
+| [Harness](https://github.com/cekrauseee/harness) | 0.1.0 | Local context, memory, and explicit agent workflows. |
 
 ## Codex and local ChatGPT desktop
 
